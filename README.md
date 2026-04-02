@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on building SaaS platforms for modern businesses.<br>🤝 I’m looking to collaborate on system design projects and scalable backend architectures.<br>👐 I’m looking for help with designing high-availability distributed systems.<br>🌱 I’m currently learning .NET and exploring advanced system design concepts.<br>💬 Ask me about the MERN stack and building full-stack web apps from scratch.<br>⚡️ Fun fact I once built a fully functional SaaS prototype in 72 hours just to see if I could — and it actually worked.
+🔭 I’m currently working on building SaaS platforms for modern businesses.<br>🤝 I’m looking to collaborate on system design projects and scalable backend architectures.<br>👐 I’m looking for help with designing high-availability distributed systems.<br>🌱 I’m currently learning Spring Boot and exploring advanced system design concepts.<br>💬 Ask me about the MERN stack and building full-stack web apps from scratch.<br>⚡️ Fun fact I once built a fully functional SaaS prototype in 72 hours just to see if I could — and it actually worked.
 
 
 ## 🌐 Socials:
